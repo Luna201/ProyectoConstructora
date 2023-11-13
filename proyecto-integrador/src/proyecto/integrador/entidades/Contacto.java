@@ -41,8 +41,8 @@ public class Contacto {
         contactos[1][2] = "dalma@hotmail.com";
         
          contactos[2][0] = "Andrés Luna";
-        contactos[2][1] = "2604034760";
-        contactos[2][2] = "andresluna201@hotmail.com";
+        contactos[2][1] = "2604123456";
+        contactos[2][2] = "andresluna@hotmail.com";
 
         for (int i = 0; i <= 2; i++) {
             System.out.println("Nombre: " + contactos[i][0]);
